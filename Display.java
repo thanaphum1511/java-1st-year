@@ -150,7 +150,7 @@ class Display {
    }*/
    public static void main(String[] args) {
       float x = 5, y = 2;
-      System.out.println("x/y 7= " + x / y);
+      System.out.println("x/y = " + x / y);
    }
 }
     
